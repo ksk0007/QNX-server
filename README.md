@@ -25,4 +25,13 @@ create an script for the udp network purpose and use the networking file which i
 
 it need to be customize for your purpose
 
+more updated networManager is the proper server file 
+
+CONNECTION OF TWO PLAYER 
+
+USE THE NETWORKPLAYER FILE
+
+the networkmanager and the networkplayer are script inside the unity
+
+
 
