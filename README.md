@@ -21,7 +21,7 @@ and to connect the momentix and the vmware qnx you need to enter the newly chang
 
 the connection of unity the ip should be same (but the port must be diff ) .
 
-create an script for the network purpose and use the networking file which i upload in the unity script folder it is universal manager
+create an script for the udp network purpose and use the networking file which i upload in the unity script folder it is universal udp manager
 
 it need to be customize for your purpose
 
